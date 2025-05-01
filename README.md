@@ -1,4 +1,4 @@
-# linux-dns-server-provisioner
+# Linux DNS Server Provisioner
 
 A cross-platform script for automated DNS server deployment and management on Linux systems.
 
